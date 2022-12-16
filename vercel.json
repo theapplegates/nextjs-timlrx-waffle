@@ -1,0 +1,3 @@
+{
+  "buildCommand": "next build --legacy-peer-deps"
+}
